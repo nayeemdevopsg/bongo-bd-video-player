@@ -1,0 +1,38 @@
+body{
+    margin: 0%;
+    
+}
+html{
+    background-color: rgb(56, 54, 54);
+}
+
+.bg-color{
+    background-color: rgb(95, 91, 91);
+}
+
+.button-div{
+    display: flex;
+    margin-bottom: 4%;
+}
+
+video{
+   
+    width: 100%;
+    background-color:  rgb(95, 91, 91);
+}
+
+.bt-cl{
+  border-radius: 4px;
+}
+
+.bg-cl{
+    background-color: rgb(56, 54, 54);
+}
+
+.btn-Play{
+    padding-left: 4px;
+    padding-right: 4px;
+}
+.black{
+    background-color: black;
+}
